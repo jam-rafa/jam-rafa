@@ -13,7 +13,7 @@
 
 # 👨‍💻 Sobre mim
 
-Sou desenvolvedor de software focado na criação de soluções que facilitem a vida das pessoas. Tenho experiência principalmente no desenvolvimento **front-end**, utilizando frameworks modernos do ecossistema JavaScript, além de atuar também no **backend** com Node.js e Laravel.
+Sou desenvolvedor full stack com experiência no desenvolvimento de ponta a ponta de aplicações. Ao longo da minha carreira, tenho me destacado no desenvolvimento front-end, com experiência nos principais frameworks do mercado. Possuo conhecimento consolidado em JavaScript, estendendo também minhas habilidades para o back-end com Node.js e, há um ano, trabalho com Laravel.
 
 Tenho experiência em desenvolvimento de aplicações completas, arquitetura de sistemas, otimização de performance e integrações de APIs. Busco evoluir constantemente como profissional e trabalhar em soluções escaláveis e eficientes.
 
